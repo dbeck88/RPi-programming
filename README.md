@@ -1,3 +1,3 @@
 # RPi-programming
-experimental software sandbox
+Experimental software sandbox.  
 No permanent code.
